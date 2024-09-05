@@ -20,7 +20,7 @@ Technologies Used
 
 How to Run
 
--> Clone the repository: git clone https://github.com/yourusername/digital-clock-with-themes.git
+-> Clone the repository: git clone (https://github.com/Aditi07-cloud/themed-digital-clock)
 -> Open the index.html file in your web browser to view and interact with the clock.
 -> Feel free to customize and expand upon this project. Contributions and feedback are welcome!
 
